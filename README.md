@@ -1,2 +1,2 @@
-# Flyvannn.github.io
+# Flyvannn
 [my blog](Flyvannn.github.io)
