@@ -1,2 +1,3 @@
 # Flyvannn
-[my blog](https://flyvannn.github.io/)
+
+[不可结缘，徒增寂寥。](https://flyvannn.github.io/)
